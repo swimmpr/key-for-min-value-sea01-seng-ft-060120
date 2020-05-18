@@ -15,5 +15,3 @@ lowest_value = 0
     end
   end
   lowest_key
-end
-end
